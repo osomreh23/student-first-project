@@ -1,0 +1,68 @@
+body{
+	margin: auto;
+}
+.container{
+	background-color: #E5E4E2;
+	position: relative;
+	height: 500px;
+	border: 1px solid black;
+}
+.header{
+	display: inline;
+}
+
+span{
+  height: 25px;
+  width: 25px;
+  background-color: #FFA500;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 10px;
+
+}
+.name li{
+	display: inline-block;
+}
+
+.nav ul{
+    list-style: none;
+
+}
+.nav a {
+	color: black;
+}
+.nav2 li{
+	display: inline-block;
+	margin-right: 10px;
+
+}
+.nav{
+	position: absolute;
+	top: 10px;
+	right: 0px;
+
+}
+.body{
+	position: relative;
+	text-align: center;
+
+}
+.img{
+	  height: 250px;
+      width: 250px;
+      background-color: #FFA500;
+      border-radius: 50%;
+      display: inline-block;
+}
+.circle{
+      height: 70px;
+      width: 70px;
+      background-color: #FFA500;
+      border-radius: 50%;
+      display: inline-block;
+      position: relative;
+      top: 180px;
+      left: 230px;
+
+
+}
